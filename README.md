@@ -1,61 +1,35 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,70:1a0533,100:6E40C9&height=200&section=header&text=Hassan%20Jamal&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=70&rotate=-5&desc=Full%20Stack%20Engineer%20%E2%80%94%20I%20build%20things%20that%20work&descAlignY=85&descSize=18&descAlign=60&fontAlign=35" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hey,%20I'm%20Hassan%20👋&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20I%20build%20things%20that%20actually%20ship&descAlignY=65&descSize=17"/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-hassan-jamal-ab0b45373/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:hassanjamal8735@gmail.com"><img src="https://img.shields.io/badge/-hassanjamal8735@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/Hassan-Jamal8735"><img src="https://img.shields.io/badge/-@Hassan--Jamal8735-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Hassan-Jamal8735&style=flat-square&color=6E40C9&label=profile+views"/>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Laravel+%7C+React+%7C+Next.js+%7C+Node.js;SaaS+%7C+AI+Apps+%7C+Marketplaces+%7C+APIs;4%2B+years+%2C+30%2B+projects+shipped;Open+to+freelance+%26+remote+work)](https://git.io/typing-svg)
 
 <br/>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-jamal-ab0b45373/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanjamal8735@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Hassan-Jamal8735?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Hassan-Jamal8735)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hassan-Jamal8735&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/Hassan-Jamal8735)
 
-```
-> whoami
-  Muhammad Hassan Jamal
-  Full Stack Engineer — Faisalabad, Pakistan
-
-> experience
-  4+ years in production web development
-  30+ projects shipped across industries
-
-> expertise
-  SaaS · AI Apps · Marketplaces · Fintech · Healthcare
-  Real Estate · eCommerce · Logistics · Business Systems
-
-> stack
-  Backend  → Laravel, Node.js, Python, PHP
-  Frontend → React, Next.js, TypeScript
-  AI       → OpenAI, LangChain, n8n, AI Agents
-  Cloud    → AWS, Docker, Vercel
-
-> status
-  Open to freelance & remote work
-  hassanjamal8735@gmail.com
-```
-
-<br clear="right"/>
+</div>
 
 ---
 
-### 🔥 Right Now
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> Building AI-powered products that solve real business problems.
+### About Me
 
-|  |  |
-|--|--|
-| 🚀 **Shipping** | Multi-tenant SaaS with OpenAI + Laravel + Next.js |
-| 🧠 **Exploring** | AI Agents · RAG Pipelines · Vector DBs · n8n |
-| 🎯 **Goal** | Production-grade AI tools that actually make money |
-| 📍 **Location** | Faisalabad, Pakistan · Available Remotely |
+I'm a Full Stack Engineer based in Faisalabad, Pakistan with **4+ years** of experience building real-world products. I've shipped **30+ projects** for startups, agencies, and enterprises across healthcare, fintech, logistics, real estate, and eCommerce.
+
+I don't just write code — I understand the business, own the problem, and deliver from idea to production.
+
+- 🏗️ Specialize in **SaaS, AI-powered apps, marketplaces & internal tools**
+- 🤖 Building with **OpenAI, LangChain, n8n & AI Agents**
+- ☁️ Comfortable with **AWS, Docker, CI/CD & Linux servers**
+- 💼 Available for **freelance projects & remote positions**
+- 📬 **hassanjamal8735@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -63,66 +37,67 @@
 
 <div align="center">
 
-**Backend**
-
+**Languages & Frameworks**
+<br/>
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,fastapi,graphql,prisma&theme=dark&perline=8"/>
-
-**Frontend**
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css&theme=dark&perline=8"/>
 
-**Databases**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase&theme=dark&perline=8"/>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase,elasticsearch&theme=dark&perline=8"/>
+
+<br/>
 
 **DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,vercel,netlify,cloudflare,git&theme=dark&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,vercel,netlify,github,git&theme=dark&perline=8"/>
+<br/>
 
-**AI & Integrations**
-
-<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch&theme=dark&perline=8"/>
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode,wordpress,shopify,stripe,jest,webpack&theme=dark&perline=8"/>
+**AI, Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch,figma,postman,vscode,wordpress,github&theme=dark&perline=8"/>
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Jamal8735&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Jamal8735&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 </div>
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hassan-Jamal8735&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Jamal8735&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hassan-Jamal8735&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Jamal8735&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Hassan-Jamal8735&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9"/>
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Jamal8735&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true"/>
+<img src="https://streak-stats.demolab.com?user=Hassan-Jamal8735&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA"/>
 </div>
 
 ---
 
-### 🗂️ Summary
+### 📈 Contribution Graph
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Jamal8735&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true"/>
+</div>
+
+---
+
+### 🗂️ Profile Summary
 
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Jamal8735&theme=tokyonight"/>
@@ -135,7 +110,7 @@
 
 ---
 
-### 🐍 Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -152,50 +127,45 @@
 <div align="center">
 
 <a href="https://github.com/Hassan-Jamal8735/haya-skin-analysis-model-training">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=haya-skin-analysis-model-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=haya-skin-analysis-model-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 </a>
 <a href="https://github.com/Hassan-Jamal8735/expactcar-backend-latest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=expactcar-backend-latest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/expactcar-frontend-latest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=expactcar-frontend-latest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=expactcar-backend-latest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 </a>
 <a href="https://github.com/Hassan-Jamal8735/sellcaruae-nextjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=sellcaruae-nextjs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=sellcaruae-nextjs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 </a>
 <a href="https://github.com/Hassan-Jamal8735/Kids-Health-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=Kids-Health-Hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=Kids-Health-Hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 </a>
 <a href="https://github.com/Hassan-Jamal8735/akoben-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=akoben-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=akoben-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
+</a>
+<a href="https://github.com/Hassan-Jamal8735/haya-skin-analysis-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=haya-skin-analysis-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 </a>
 
 </div>
 
 ---
 
-### 😂 Joke
+### 😂 Joke of the Day
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=c9d1d9&borderColor=6E40C9&qColor=6E40C9&aColor=FF6B6B"/>
-</div>
-
----
-
-### 💬 Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=c9d1d9&borderColor=A78BFA&qColor=A78BFA&aColor=FF6B6B"/>
 </div>
 
 ---
 
 <div align="center">
 
-**Available for freelance · Remote work · Collaborations**
+### Let's Build Something
 
-[![Email](https://img.shields.io/badge/Hire%20Me-hassanjamal8735%40gmail.com-6E40C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanjamal8735@gmail.com)
+I'm available for freelance projects, remote roles, and interesting collaborations.
+If you have an idea — let's talk.
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-hassanjamal8735%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanjamal8735@gmail.com)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:6E40C9,100:0d1117&height=120&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
