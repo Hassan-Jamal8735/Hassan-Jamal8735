@@ -117,11 +117,11 @@
 
 ---
 
-### 3D Contribution Calendar
+### Contribution Snake
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![Snake animation](https://raw.githubusercontent.com/Hassan-Jamal8735/Hassan-Jamal8735/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
