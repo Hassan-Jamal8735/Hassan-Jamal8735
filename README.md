@@ -124,28 +124,14 @@ I don't just write code — I understand the business, own the problem, and deli
 
 ### 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/Hassan-Jamal8735/haya-skin-analysis-model-training">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=haya-skin-analysis-model-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/expactcar-backend-latest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=expactcar-backend-latest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/sellcaruae-nextjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=sellcaruae-nextjs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/Kids-Health-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=Kids-Health-Hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/akoben-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=akoben-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Hassan-Jamal8735/haya-skin-analysis-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Jamal8735&repo=haya-skin-analysis-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**haya-parmacy**](https://github.com/Hassan-Jamal8735/haya-parmacy) | Pharmacy management system with inventory, prescriptions & patient records | TypeScript |
+| [**mtdb**](https://github.com/Hassan-Jamal8735/mtdb) | Full-stack movie & TV database platform with search, ratings & reviews | TypeScript |
+| [**Book-Management**](https://github.com/Hassan-Jamal8735/Book-Management) | Book management system with categories, CRUD & search | Laravel · PHP |
+| [**draw-from-ui**](https://github.com/Hassan-Jamal8735/draw-from-ui) | Interactive UI drawing tool | TypeScript |
+| [**tech-cafe-vercel**](https://github.com/Hassan-Jamal8735/tech-cafe-vercel) | Tech cafe website with responsive modern UI deployed on Vercel | JavaScript |
+| [**hackathon**](https://github.com/Hassan-Jamal8735/hackathon) | Rapid-build hackathon web application | JavaScript |
 
 ---
 
