@@ -117,16 +117,6 @@
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Hassan-Jamal8735/Hassan-Jamal8735/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### Profile Summary
 
 <div align="center">
